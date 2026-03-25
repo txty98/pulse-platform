@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Pulse RMS Admin",
+    "slug": "pulse-rms-admin",
+    "scheme": "pulserms",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0f766e"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f766e"
+      }
+    }
+  }
+}

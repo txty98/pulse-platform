@@ -1,0 +1,15 @@
+{
+  "name": "@pulse/tsconfig",
+  "version": "0.1.0",
+  "private": true,
+  "files": [
+    "base.json",
+    "nextjs.json",
+    "react-native.json"
+  ],
+  "exports": {
+    "./base.json": "./base.json",
+    "./nextjs.json": "./nextjs.json",
+    "./react-native.json": "./react-native.json"
+  }
+}
