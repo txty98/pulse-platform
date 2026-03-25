@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1118.38 152.94">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: Inter18pt-SemiBold, 'Inter 18pt';
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        font-size: 128px;
+      }
+
+      .cls-2 {
+        fill: #18181c;
+      }
+
+      .cls-4 {
+        fill: #3057e1;
+      }
+
+      .cls-5 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #484850;
+        font-family: Inter18pt-Light, 'Inter 18pt';
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-3" transform="translate(178.6 110.56)"><tspan class="cls-2" x="0" y="0">Pulse</tspan><tspan class="cls-1" x="335.56" y="0"> </tspan><tspan class="cls-5" x="367.06" y="0">T</tspan><tspan class="cls-6" x="437.38" y="0">asks</tspan></text>
+    <path class="cls-4" d="M0,61.28c.89-2.95,2.9-5.15,5.92-5.93l23.15-.11L52.58,5.52c3.41-5.88,11.33-5.24,13.73,1.01l22.76,95.57,16.41-34.26c1.46-2.61,3.48-4.31,6.56-4.57,8.72-.75,18.55.56,27.38.04,8.36,1.23,9.13,12.26,1.05,14.69l-23.44.26-24.02,50.49c-3.7,4.98-11.25,3.92-13.22-2.09L57.09,31.31l-17.42,35.82c-1.47,1.8-3.2,2.81-5.55,3.01-8.72.75-18.55-.56-27.38-.04-3.5-.44-5.65-2.74-6.74-5.96v-2.85Z"/>
+  </g>
+</svg>

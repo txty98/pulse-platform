@@ -7,6 +7,10 @@
   "exports": {
     ".": "./src/index.ts"
   },
+  "devDependencies": {
+    "@types/react": "^19.0.10",
+    "react": "^19.0.0"
+  },
   "peerDependencies": {
     "react": "^19.0.0"
   }
